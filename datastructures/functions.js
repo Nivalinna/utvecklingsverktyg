@@ -6,7 +6,7 @@ const run = () => {
 
     // this is also an function
     const myFunction = function() {
-        console.log('Hello from my function')
+        console.log('Latinos be stealin hella much')
     }
     // execute my function
     myFunction()
@@ -28,7 +28,7 @@ const run = () => {
     }
     try {
     // trying to access thisIsSoPrivate variable outside the function will trow an variable not defined exception
-    console.log('try to write out secret variable:', thisIsSoPrivate)
+    console.log('try to write out big floppy boinks:', thisIsSoPrivate)
     } catch(err) {
         console.log('doo do do, can\'t touch this:', err.message)
     }

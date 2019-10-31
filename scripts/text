@@ -1,0 +1,18 @@
+Print-sequence 
+-skriver ut något nummer som den adderar
+-sen har den någon loop effekt
+
+Print-sequence-async
+de borde räkna ut något som blr till ungefär 14
+
+Amend-string 
+först srkiver de 0123456789 sen skriver den det på reverse 
+
+Let-const
+de borde skriva ut "Text 1" och const kan int ändras
+
+Traverse-stack
+Skriver numrorna andra vägen "54321"
+
+Pupeteer
+Listar up alla yles headlines och linkar till dem 
